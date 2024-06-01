@@ -1,0 +1,12 @@
+ .blog-posts-container li {
+    text-align: left;
+    margin-bottom: 10px;
+    padding: 5px;
+    
+  }
+  
+  .blog-posts-container button {
+    margin: 20px auto;
+    font-size: 16px;
+    cursor: pointer;
+  }
